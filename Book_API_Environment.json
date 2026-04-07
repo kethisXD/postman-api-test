@@ -1,0 +1,15 @@
+{
+	"id": "e45ba6d0-653a-4da2-81e5-81ab23ec5f20",
+	"name": "BookAPI Env",
+	"values": [
+		{
+			"key": "userId",
+			"value": "user_777_test",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-01-01T00:00:00.000Z",
+	"_postman_exported_using": "Postman/10.0.0"
+}

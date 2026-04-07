@@ -1,6 +1,6 @@
 # Postman API Testing Project
 
-![Postman Tests Screenshot](screenshot/image.png)
+![Postman Tests Screenshot](image.png)
 
 Этот проект создан для демонстрации автоматизированного тестирования API с помощью Postman. Он включает в себя простое приложение на Python (FastAPI), которое предоставляет CRUD операции для управления каталогом книг. В проекте также содержится коллекция и окружение Postman для тестирования.
 
